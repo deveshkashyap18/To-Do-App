@@ -1,3 +1,3 @@
-This is first App with React JS.
+This is my first App with React JS.
 <br>
 Devesh Kumar
